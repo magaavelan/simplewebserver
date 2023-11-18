@@ -31,7 +31,7 @@ content = """
 <body>
 <h1><u>Top 5 Revenue Generating Companies</u><h1>
 <ul>
-<li>Apple</li>
+<li>Samsung</li>
 <li>Amazon</li>
 <li>Microsoft</li>
 <li>Samsung</li>
@@ -52,8 +52,8 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![Screenshot 2023-10-21 090057](https://github.com/Darkwebnew/simplewebserver/assets/143114486/853ad8a8-121f-4f4e-928d-8e5a28e1c588)
-![Screenshot 2023-10-21 090026](https://github.com/Darkwebnew/simplewebserver/assets/143114486/1ff76aee-137f-490f-a5e6-5b6caee76b71)
+![Screenshot 2023-11-18 095742](https://github.com/magaavelan/simplewebserver/assets/134506532/71f45ab6-1602-469d-8b49-0da6d3ac49dd)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
